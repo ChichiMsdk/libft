@@ -16,7 +16,10 @@ SRCS	=	ft_isalpha.c ft_memchr.c ft_memset.c ft_strlen.c	ft_tolower.c ft_strrchr.
 			ft_isprint.c ft_memmove.c ft_strlcpy.c ft_calloc.c ft_strdup.c	\
 			ft_itoa.c ft_putchar_fd.c ft_putendl_fd.c	ft_putnbr_fd.c ft_putstr_fd.c \
 			ft_split.c	ft_striteri.c	ft_strjoin.c	ft_strmapi.c	ft_strtrim.c \
-			ft_substr.c
+			ft_substr.c ft_printf/ft_printf.c ft_printf/ft_putchar.c ft_printf/ft_puthex.c \
+			ft_printf/ft_putnbr.c ft_printf/ft_putstr.c ft_printf/ft_base.c ft_printf/ft_putptr.c \
+			ft_printf/ft_putint.c \
+
 
 NAME	= libft.a
 
